@@ -7,7 +7,8 @@
 ## How to Cite
 
 Xinxing Wu, Junping Zhang, Wang Fei-Yue. Stability-based Generalization Analysis of Distributed Learning Algorithms for Big Data. IEEE transactions on neural networks and learning systems, 2019, 31 (3), 801-812.
-􏰃Link: https://ieeexplore.ieee.org/document/8709753
+
+Link: https://ieeexplore.ieee.org/document/8709753
 
 
 ---
